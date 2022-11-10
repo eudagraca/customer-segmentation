@@ -1,0 +1,11 @@
+import Customer from './customer';
+
+const customer = new Customer(name = 'John',revenue = 10000, location = "Mpt", currentNetwork="Vodacom");
+
+console.log(customer.location)
+const behavior = customer.behaviorSegment()
+console.log(behavior)
+
+// function segment(customer) {
+
+// }

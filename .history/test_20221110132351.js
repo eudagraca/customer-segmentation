@@ -1,0 +1,1 @@
+const { segmentCustomer } = require("./segmentCustomer")
