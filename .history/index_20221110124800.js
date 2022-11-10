@@ -1,2 +1,0 @@
-const { segmentCustomer } = require("./segmentation");
-

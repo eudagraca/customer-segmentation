@@ -1,1 +1,0 @@
-const customer = new Customer();

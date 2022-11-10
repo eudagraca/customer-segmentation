@@ -1,1 +1,0 @@
-import { segmentCustomer } from "./segmentation";
