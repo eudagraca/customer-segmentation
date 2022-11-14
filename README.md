@@ -52,10 +52,6 @@ Customer {
 ##### networkOperator
 ###### Communication signal providers
 
-######
-Object that will be returned :
-```javascript
-
 ## License
 
 MIT © [Euclidio Venancio](https://linkedin.com/in/euclidio-venancio)
