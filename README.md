@@ -34,3 +34,28 @@ Customer {
   marketSegmentation: 'MASS MARKET'
 }
 ```
+
+#### Fields description 
+##### behaviorSegmentation [customer behavior]
+###### ZERO RATED - Customer that isnt generate any revenue
+###### UL - Ultra Low Customer
+###### ML - Medium Low Customer
+###### H - High Value Customer
+###### H - Ultra High Customer
+
+
+##### marketSegmentation [market behavior]
+###### YOUTH - Youth customer | People with max 25 years-old
+###### MASS MARKET - Undifferentiated market of consumers
+###### HIGH - High Value Customer
+
+##### networkOperator
+###### Communication signal providers
+
+######
+Object that will be returned :
+```javascript
+
+## License
+
+MIT © [Euclidio Venancio](https://linkedin.com/in/euclidio-venancio)
